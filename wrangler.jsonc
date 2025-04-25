@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "round-river-c80a",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "78fc13d5-e07b-481c-870a-882ef8ce52ef",
+      "database_name": "round-river-c80a-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
